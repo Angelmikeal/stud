@@ -1,7 +1,7 @@
  body {
  	padding: 0px !important;
  	margin:0px !important;
- 	overflow-x: hidden;
+ 	overflow-x: hidden !important;
  	font-family: 'Open Sans', sans-serif;
  }
 
@@ -189,7 +189,7 @@
 
  #hr {
 	border: 0.5px solid #f0f0f0;
-	width: 800px;
+	width: 100%;
 }
 
 @media only screen and (max-width: 688px) {
